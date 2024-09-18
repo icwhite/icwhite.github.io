@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Isadora White
+landing-title: 'Hi, my name is Izzy'
 description: null
 image: null
 author: null
